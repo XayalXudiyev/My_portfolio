@@ -8,8 +8,12 @@ import Bootstrapimg from "../assets/skilsImg/Bootstrap.png";
 import Tailwindimg from "../assets/skilsImg/Tailwind.png";
 import TypeScriptimg from "../assets/skilsImg/TypeScript.png";
 import ReduxToolkitimg from "../assets/skilsImg/ReduxToolkit.png";
-import NextJSimg from "../assets/skilsImg/NextJS.png";
+// import NextJSimg from "../assets/skilsImg/NextJS.png";
 import GitHubimg from "../assets/skilsImg/GitHub.png";
+import NodeJSimg from "../assets/skilsImg/NodeJS.jpg";
+import ExpressJSimg from "../assets/skilsImg/Express Js.jpg";
+import MongoDBimg from "../assets/skilsImg/Mongo.png";
+import RestAPIimg from "../assets/skilsImg/Rest APi.png";
 
 const Experinece = () => {
   const images = [
@@ -43,41 +47,62 @@ const Experinece = () => {
     },
     {
       id: 5,
-      src: Bootstrapimg,
-      alt: "Bootstrap photo",
-      name: "Bootstrap",
-      style: "shadow-blue-500",
+      src: ReduxToolkitimg,
+      alt: "ReduxToolkit photo",
+      name: "Redux Toolkit",
+      style: "shadow-white",
     },
     {
       id: 6,
-      src: Tailwindimg,
-      alt: "Tailwind photo",
-      name: "Tailwind",
-      style: "shadow-sky-400",
-    },
-    {
-      id: 7,
       src: TypeScriptimg,
       alt: "TypeScript photo",
       name: "TypeScript",
       style: "shadow-blue-300",
     },
     {
-      id: 8,
-      src: ReduxToolkitimg,
-      alt: "ReduxToolkit photo",
-      name: "Redux Toolkit",
-      style: "shadow-white",
+      id: 7,
+      src: Bootstrapimg,
+      alt: "Bootstrap photo",
+      name: "Bootstrap",
+      style: "shadow-blue-500",
     },
-    // {
-    //   id: 9,
-    //   src: NextJSimg,
-    //   alt: "NextJS photo",
-    //   name: "Next JS",
-    //   style: "shadow-white",
-    // },
+    {
+      id: 8,
+      src: Tailwindimg,
+      alt: "Tailwind photo",
+      name: "Tailwind",
+      style: "shadow-sky-400",
+    },
+    {
+      id: 9,
+      src: NodeJSimg,
+      alt: "NodeJS photo",
+      name: "NodeJS",
+      style: "shadow-green-500",
+    },
     {
       id: 10,
+      src: ExpressJSimg,
+      alt: "ExpressJS photo",
+      name: "ExpressJS",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 11,
+      src: MongoDBimg,
+      alt: "MongoDB photo",
+      name: "MongoDB",
+      style: "shadow-green-500",
+    },
+    {
+      id: 12,
+      src: RestAPIimg,
+      alt: "RestAPI photo",
+      name: "RestAPI",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 13,
       src: GitHubimg,
       alt: "Github photo",
       name: "GitHub",

@@ -14,13 +14,15 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full mt-20 ">
           <h2 className=" text-4xl sm:text-5xl font-bold max-sm::text-center text-white md:text-6xl text-start">
-            I'm a Front-End developer
+            I'm a Full Stack Developer
           </h2>
           <p className="text-neutral-400 py-4 max-w-md">
-            A front-End developer passionate about creative interactive
-            applications and experiences on web.
+            I'm a Full Stack Developer specializing in both front-end and
+            back-end development with comprehensive technical skills, proficient
+            in modern web technologies, and well-versed in best coding practices
+            and standards.
           </p>
-          <div class="flex justify-center items-center " >
+          <div class="flex justify-center items-center ">
             <Link
               to="portfolio"
               smooth
