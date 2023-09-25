@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/My_portfolio/static/css/main.2594fb41.css",
+    "main.js": "/My_portfolio/static/js/main.c3b5504f.js",
+    "static/media/algoritmika.png": "/My_portfolio/static/media/algoritmika.d98b696bad8d49f3a320.png",
+    "static/media/portfolio.png": "/My_portfolio/static/media/portfolio.cd542a790c8f17b74aa7.png",
+    "static/media/ReduxToolkit.png": "/My_portfolio/static/media/ReduxToolkit.6e66cd4ff6a497e88bde.png",
+    "static/media/React.png": "/My_portfolio/static/media/React.8a6fc0a24a800d1e0f4a.png",
+    "static/media/HTML5.png": "/My_portfolio/static/media/HTML5.5d9ec7118c38e45d785f.png",
+    "static/media/Rest APi.png": "/My_portfolio/static/media/Rest APi.c5618b6df35050c50c2e.png",
+    "static/media/photo.jpg": "/My_portfolio/static/media/photo.767f19084945955d7913.jpg",
+    "static/media/Bootstrap.png": "/My_portfolio/static/media/Bootstrap.430491e6a02f91bf55d6.png",
+    "static/media/NodeJS.jpg": "/My_portfolio/static/media/NodeJS.6776aa0068eed3cbb5bf.jpg",
+    "static/media/JavaScript.png": "/My_portfolio/static/media/JavaScript.96a13af0147433eded9b.png",
+    "static/media/converter.png": "/My_portfolio/static/media/converter.2d0a823ef9e24c628382.png",
+    "static/media/TypeScript.png": "/My_portfolio/static/media/TypeScript.52ea0bc40ba11d507e7d.png",
+    "static/media/Tailwind.png": "/My_portfolio/static/media/Tailwind.087f91401d142f1a4903.png",
+    "static/media/Mongo.png": "/My_portfolio/static/media/Mongo.93c6a527b6876ef04219.png",
+    "static/media/todo.png": "/My_portfolio/static/media/todo.1ab8c353727893e1d9c5.png",
+    "static/media/Express Js.jpg": "/My_portfolio/static/media/Express Js.eb984af49c7c0d9e0733.jpg",
+    "static/media/otpform.png": "/My_portfolio/static/media/otpform.6117d4cd0828dad5c54a.png",
+    "static/media/CSS3.png": "/My_portfolio/static/media/CSS3.2a7daffa85bb2869d26d.png",
+    "static/media/emojiRating.png": "/My_portfolio/static/media/emojiRating.1386e65306660ed67853.png",
+    "index.html": "/My_portfolio/index.html",
+    "main.2594fb41.css.map": "/My_portfolio/static/css/main.2594fb41.css.map",
+    "main.c3b5504f.js.map": "/My_portfolio/static/js/main.c3b5504f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2594fb41.css",
+    "static/js/main.c3b5504f.js"
+  ]
+}
