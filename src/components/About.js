@@ -16,14 +16,14 @@ const About = () => {
         </div>
         <div>
           <p className="text-xl mt-20">
-            Dynamic and creative front-end developer with a solution-oriented
-            approach, passionate about learning new technologies. Proficient in
-            communication, collaboration, and technical documentation. Committed
-            to delivering high-quality work as a team player. Continuously
-            seeking opportunities to learn and grow in the field of front-end
-            development.
+            I am a Full Stack Developer with a strong focus on Front-End development. I
+            have been enhancing my skills using the latest Front-End tools for
+            nearly 2 years. Additionally, I am learning Back-End development
+            with Node.js through self-study. During this time, I have made
+            significant progress and I am rapidly advancing due to my strong
+            desire to learn. I am confident that I will become a Full-stack
+            developer in the near future.
           </p>
-          
         </div>
       </div>
     </div>
